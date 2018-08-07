@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Final Materials/transparentBlue.png</file>
+        <file>Final Materials/transparentRed.png</file>
+        <file>Final Materials/Logo_temporarily.png</file>
+        <file>Final Materials/Admin.png</file>
+        <file>Final Materials/C++Developer.png</file>
+        <file>Final Materials/Note.png</file>
+        <file>Final Materials/Qt.png</file>
+        <file>Final Materials/Exit.png</file>
+        <file>Final Materials/icoEnglishAurally.ico</file>
+        <file>Final Materials/icoPngMergeTransparent.png</file>
+        <file>Final Materials/lotereya_shary_png_1.png</file>
+        <file>Final Materials/gradient.jpg</file>
+        <file>Final Materials/time.png</file>
+        <file>Final Materials/Open.png</file>
+        <file>Final Materials/gilbert bold.png</file>
+        <file>Final Materials/number.png</file>
+    </qresource>
+</RCC>
